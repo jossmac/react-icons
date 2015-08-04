@@ -13,7 +13,7 @@ var initGulpTasks = require('react-component-gulp-tasks');
 var taskConfig = {
 
 	component: {
-		name: 'ReactIcons',
+		name: 'Icon',
 		dependencies: [
 			'classnames',
 			'react',

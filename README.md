@@ -33,9 +33,9 @@ npm install react-icons --save
 __EXPLAIN USAGE HERE__
 
 ```
-var ReactIcons = require('react-icons');
+var Icon = require('react-icons');
 
-<ReactIcons>Example</ReactIcons>
+<Icon>Example</Icon>
 ```
 
 ### Properties

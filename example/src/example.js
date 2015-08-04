@@ -1,12 +1,10 @@
 var React = require('react');
-var ReactIcons = require('react-icons');
+var Icon = require('react-icons');
 
 var App = React.createClass({
 	render () {
 		return (
-			<div>
-				<ReactIcons />
-			</div>
+			<Icon name="circle" className="test-this-out" />
 		);
 	}
 });

@@ -2,7 +2,7 @@
   "name": "react-icons",
   "version": "0.0.0",
   "description": "React Icons",
-  "main": "lib/ReactIcons.js",
+  "main": "lib/Icon.js",
   "author": "Joss Mackison",
   "license": "MIT",
   "homepage": "https://github.com/jossmac/react-icons",
