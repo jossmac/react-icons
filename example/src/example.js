@@ -4,7 +4,7 @@ var Icon = require('react-icons');
 var App = React.createClass({
 	render () {
 		return (
-			<Icon name="circle" className="test-this-out" />
+			<Icon name="test" size={128} color="white" className="can-haz-custom-classname" />
 		);
 	}
 });
